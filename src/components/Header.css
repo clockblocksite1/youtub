@@ -1,0 +1,49 @@
+.Header{
+    background-color: #0A0A0A;
+    height: 80px;
+    width: 1920px;
+}
+.head{
+    color: #FFFFFF;
+    font-size: 24px;
+    font-weight: 700;
+   
+    margin-left: 130px;
+    padding-top: 24px;
+}
+.img{
+    display: flex;
+    position: absolute;
+    margin-top: -20px;
+    margin-left: 1500px;
+    gap: 33px;
+}
+.skach{
+    width: 119px;
+    height: 42px;
+    background-color: #FF2A08;
+    color: white;
+    border: none;
+    border-radius: 200px;
+    cursor: pointer;
+    font-size: 18px;
+   margin-left: 180px;
+   position: absolute;
+   margin-top: -10px;
+}
+.disc:hover {
+    transform: rotate(360deg);
+    transition: all 1s;
+    cursor: pointer;
+}
+.wk:hover{
+    transform: rotate(360deg);
+    transition: all 1s;
+    cursor: pointer;
+}
+.tg:hover{
+    transform: rotate(360deg);
+    transition: all 1s;
+    cursor: pointer;
+}
+ 

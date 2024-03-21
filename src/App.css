@@ -1,0 +1,270 @@
+.bg{
+  background: url(./img/bg.png);
+width: 1920px;
+height: 1005px;
+  background-repeat: no-repeat;
+ background-color: black;
+}
+.title{
+  font-size: 85px;
+  color: white;
+  padding-left: 234px;
+  padding-top: 249px;
+}
+.subtitle{
+  font-size: 85px;
+  color: white;
+  padding-left: 234px;
+ 
+}
+.og{
+  font-size: 18px;
+  color: white;
+  padding-left: 234px;
+  padding-top: 36px;
+}
+.og2{
+  font-size: 18px;
+  color: white;
+  padding-left: 234px;
+}
+.rou {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  width: 207px;
+  height: 62px;
+  background-color: #FF2A08;
+  border: none;
+  cursor: pointer;
+  outline: none;
+  border-radius: 200px;
+  font-size: 18px;
+  color: white;
+  position: relative; 
+  margin-top: 87px;
+  margin-left: 234px;
+}
+
+.text {
+  position: absolute;
+  left: 22px;
+}
+
+.icon {
+  position: absolute;
+  left: 150px; 
+}
+.wet{
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  width: 223px;
+  height: 62px;
+  background-color: transparent;
+  border: solid 1px wheat;
+  cursor: pointer;
+  outline: none;
+  border-radius: 200px;
+  font-size: 18px;
+  color: white;
+  position: absolute; 
+  margin-top: -62px;
+  margin-left: 514px;
+}
+.bog{
+  background-color: black;
+  width: 1920px;
+height: 1005px;
+  background-repeat: no-repeat;
+}
+.ka{
+  font-size: 36px;
+  color: white;
+  font-weight: 600;
+  margin-left: 130px;
+  padding-top: 116px;
+}
+.rom{
+  color: white;
+  font-size: 18px;
+  margin-left: 130px;
+  padding-top: 22px;
+}
+.pic{
+  margin-left: 130px;
+  padding-top: 50px;
+  width: 62px;
+  height: 61px;
+}
+.read{
+  color: #FF0000;
+  font-size: 24px;
+  position: absolute;
+  margin-left: 210px;
+  padding-top: 45px;
+}
+.ew{
+  position: absolute;
+  color: white;
+  margin-left: 212px;
+  padding-top: 90px;
+}
+.bac{
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  width: 152px;
+  height: 61px;
+  background-color: #FF2A08;
+  border: none;
+  cursor: pointer;
+  outline: none;
+  border-radius: 200px;
+  font-size: 18px;
+  color: white;
+  position: relative; 
+  margin-left: 619px;
+ margin-top: -740px;
+}
+.got{
+  display: flex;
+  color: #FFFFFFBF;
+  margin-left: 130px;
+  padding-top: 88px;
+ 
+}
+.videoPlayer {
+  width: 100%; 
+  height: 100%; 
+  border-radius: 20px;
+  width: 814px; 
+  height: 458px; 
+  margin-left: 130px;
+  padding: 10px; 
+  border: solid 1px #FF5136;
+  border-radius: 20px;
+  position: absolute;
+  margin-top: 20px;
+}
+.sistem{
+  color: white;
+  margin-left: 1097px;
+  padding-top: 116px;
+  font-size: 36px;
+  font-weight: 600;
+  position: absolute;
+  white-space: nowrap;
+}
+.min{
+  position: absolute;
+  color: #FFFFFFBF;
+  font-size: 18px;
+  font-weight: 500;
+  margin-left: 1097px;
+  padding-top: 160px;
+  white-space: nowrap;
+}
+.min2{
+  color: #FF5136;
+  position: absolute;
+  font-size: 24px;
+  font-weight: 600;
+  margin-left: 1090px;
+  padding-top: 231px;
+}
+.hot{
+  font-size: 18px;
+  color: #FFFFFF;
+  margin-left: 1090px;
+  position: absolute;
+  padding-top: 283px;
+  white-space: nowrap;
+}
+.hot2{
+  font-size: 18px;
+  color: #FFFFFF;
+  margin-left: 1090px;
+  position: absolute;
+  padding-top: 323px;
+  white-space: nowrap;
+}
+.hot3{
+  font-size: 18px;
+  color: #FFFFFF;
+  margin-left: 1090px;
+  position: absolute;
+  padding-top: 363px;
+  white-space: nowrap;
+}
+.hot4{
+  font-size: 18px;
+  color: #FFFFFF;
+  margin-left: 1090px;
+  position: absolute;
+  padding-top: 403px;
+  white-space: nowrap;
+}
+.hot5{
+  font-size: 18px;
+  color: #FFFFFF;
+  margin-left: 1090px;
+  position: absolute;
+  padding-top: 433px;
+  white-space: nowrap;
+}
+.hot6{
+  font-size: 18px;
+  color: #FFFFFF;
+  margin-left: 1090px;
+  position: absolute;
+  padding-top: 473px;
+  white-space: nowrap;
+}
+.hot7{
+  font-size: 18px;
+  color: #FFFFFF;
+  margin-left: 1090px;
+  position: absolute;
+  padding-top: 513px;
+  white-space: nowrap;
+}
+.hot8{
+  font-size: 18px;
+  color: #FFFFFF;
+  margin-left: 1090px;
+  position: absolute;
+  padding-top: 553px;
+  white-space: nowrap;
+}
+.hot9{
+  font-size: 18px;
+  color: #FFFFFF;
+  margin-left: 1090px;
+  position: absolute;
+  padding-top: 593px;
+  white-space: nowrap;
+}
+.hot10{
+  font-size: 18px;
+  color: #FFFFFF;
+  margin-left: 1110px;
+  position: absolute;
+  padding-top: 613px;
+  white-space: nowrap;
+}
+.str{
+  margin-left: 10px;
+  white-space: nowrap;
+}
+.mag{
+  margin-left: 10px;
+}
+.icon2{
+  margin-left: 10px;
+}
+.btn{
+  position: absolute;
+  margin-left: 371px;
+  padding-top: 195px;
+}
